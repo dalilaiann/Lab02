@@ -106,3 +106,6 @@ lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
+cnd ciao fi ciao
+cnef ciaohy
+ht yi io
